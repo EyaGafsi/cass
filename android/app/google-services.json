@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448521423728",
+    "project_id": "cass-b77b0",
+    "storage_bucket": "cass-b77b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448521423728:android:f3414f814cc4604c05ddb5",
+        "android_client_info": {
+          "package_name": "com.example.cass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_B1HxabzID42_-wBDWCBlOW32hTNcxKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
