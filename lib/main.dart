@@ -2,8 +2,6 @@ import 'package:cass/firebase_options.dart';
 import 'package:cass/sign_in.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:fl_chart/fl_chart.dart';
-import 'package:flutter_switch/flutter_switch.dart';
 
 void main() {
   InitFirebase();
